@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/marklabarento" target="_blank"><img src="https://img.shields.io/twitter/follow/marklabarento?logo=twitter&style=for-the-badge" alt="marklabarento" /></a> </p>
 
-- 🔭 I’m currently working on **Opensea Blockchain Clone**
+- 🔭 I’m currently working on **Pulse.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 Ask me about **Agentic Coding**
 
 - 📫 How to reach me **markglennlabarento@gmail.com**
 
