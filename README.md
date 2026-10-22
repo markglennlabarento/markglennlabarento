@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Glenn Labarento</h1>
 <h3 align="center">A Software Engineer from Philippines</h3>
 
-<img
-    src="https://github.com/user-attachments/assets/d11f2921-bc27-472e-9496-8e3fe3551763"
-    alt="Nerf Claude"
-    width="400"
-    style="height:auto; display:block;"
-    align="right"
- />
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/marklabarento" target="_blank"><img src="https://img.shields.io/twitter/follow/marklabarento?logo=twitter&style=for-the-badge" alt="marklabarento" /></a> </p>
 
