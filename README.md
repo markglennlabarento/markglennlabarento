@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark Glenn Labarento</h1>
 <h3 align="center">A Software Engineer from Philippines</h3>
 
-<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+<img width="800" height="330" alt="claude_eats_token" src="https://github.com/user-attachments/assets/ec930942-1a56-44b6-b9d7-27a4b7dc7483" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/marklabarento" target="_blank"><img src="https://img.shields.io/twitter/follow/marklabarento?logo=twitter&style=for-the-badge" alt="marklabarento" /></a> </p>
 
