@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
+<a href="https://twitter.com/MarkLabarento" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marklabarento" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mark-glenn-labarento-a08896239/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark glenn labarento" height="30" width="40" /></a>
 <a href="https://www.facebook.com/deadly.glenn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mark glenn labarento" height="30" width="40" /></a>
 <a href="https://www.instagram.com/markglennlabarento/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markglennlabarento" height="30" width="40" /></a>
