@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mark Glenn Labarento</h1>
 <h3 align="center">A Software Engineer from Philippines</h3>
 
-<p align="center">
-<img width="800" height="330" alt="claude_eats_token" src="https://github.com/user-attachments/assets/ec930942-1a56-44b6-b9d7-27a4b7dc7483" />
-</p>
+<img
+    src="https://github.com/user-attachments/assets/d11f2921-bc27-472e-9496-8e3fe3551763"
+    alt="Nerf Claude"
+    width="400"
+    style="height:auto; display:block;"
+    align="right"
+ />
 
 <p align="left"> <a href="https://twitter.com/marklabarento" target="_blank"><img src="https://img.shields.io/twitter/follow/marklabarento?logo=twitter&style=for-the-badge" alt="marklabarento" /></a> </p>
 
@@ -16,6 +20,7 @@
 - 📫 How to reach me **markglennlabarento@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
